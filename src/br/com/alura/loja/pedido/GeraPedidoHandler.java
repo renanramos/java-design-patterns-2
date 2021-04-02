@@ -28,5 +28,5 @@ public class GeraPedidoHandler {
 
 		this.acoesAposGerarPedido.forEach(a -> a.executarAcao(pedido));
 	}
-	
+
 }
